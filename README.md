@@ -4,4 +4,4 @@
 A lot of lectures have submitted 
 
 # This is a git & github training
-this the first training for me 
+this the first training for me and you
