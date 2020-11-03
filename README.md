@@ -1,7 +1,7 @@
 # Starter web
 
 # Introduction
-A lot of lectures have submitted 
+A lot of lectures have been submitted 
 
 # This is a git & github training
 
